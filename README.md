@@ -96,4 +96,4 @@ DELETE /books/1
 - **Flask** (Backend en Python)
 - **PostgreSQL** (Base de données)
 - **Docker & Docker Compose** (Déploiement et conteneurisation)
-- **Makefile** (Gestion automatisée des tâches)
+- **Makefile** (Gestion automatisée des tâches)# WebService
